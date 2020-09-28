@@ -75,8 +75,8 @@ public class wordReplFeatures {
 
     public static void main(String[] args) throws ClassNotFoundException {
         String url = "jdbc:mysql://localhost:3306/simplification?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=America/Los_Angeles";
-        String user = "jorgea";
-        String password = "Archflash14";
+        String user = "";
+        String password = "";
 
         ReplacementDataSet dataSet = new ReplacementDataSet(url,user,password);
 
