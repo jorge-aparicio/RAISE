@@ -1,0 +1,1148 @@
+original_word@length@number_of_words@options@average_option_length@average_number_words@number_of_options@was_replaced
+interferes@10@1@intervene,step in,@8.0@1.5@2@1
+interferes@10@1@intervene,step in,@8.0@1.5@2@1
+fever@5@1@body temperature increased,temperature increase,increased body temperature,increases temperature,increase temperature,raised temperature,high body temperature,high temperature,@21.0@2.375@8@0
+endemic@7@1@[endem] [ic] :	[endem] [pertaining to],@38.0@5.0@1@0
+acquired@8@1@get,assume,take on,take,grow,develop,produce,gain,learn,@5.222222222222222@1.1111111111111112@9@0
+coccidioidomycosis@18@1@valley fever,desert rheumatism,san joaquin valley fever,desert fever,disease posada wernicke,@17.6@2.6@5@1
+coccidioidomycosis@18@1@valley fever,desert rheumatism,san joaquin valley fever,desert fever,disease posada wernicke,@17.6@2.6@5@1
+coccidioidomycosis@18@1@valley fever,desert rheumatism,san joaquin valley fever,desert fever,disease posada wernicke,@17.6@2.6@5@1
+coccidioidomycosis@18@1@valley fever,desert rheumatism,san joaquin valley fever,desert fever,disease posada wernicke,@17.6@2.6@5@1
+distinct@8@1@[dis] [tinct] :	[separation, taking apart] [tint],@24.0@3.5@2@0
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+similar@7@1@like,@4.0@1.0@1@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@0
+consider@8@1@see,view,study,take,deal,look at,turn over,think,believe,@5.333333333333333@1.2222222222222223@9@0
+physicians@10@1@doctor,doc,dr,medical doctor,@6.25@1.25@4@0
+pemphigus@9@1@[pe] [mphigus] :	[penis] [mphigus],@34.0@4.0@1@0
+pemphigus@9@1@[pe] [mphigus] :	[penis] [mphigus],@34.0@4.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+blistering@10@1@acid,caustic,hot,@4.666666666666667@1.0@3@0
+rare@4@1@not very often,@14.0@3.0@1@0
+disorders@9@1@diseases,@8.0@1.0@1@0
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+disorders@9@1@diseases,@8.0@1.0@1@0
+occur@5@1@[occu] [r] :	[occu] [blood vessels],@35.0@5.0@1@0
+mistakenly@10@1@[mistakenl] [y] :	[mistakenl] [condition or process of],@55.0@7.0@1@0
+attacks@7@1@attack behavior,@15.0@2.0@1@0
+healthy@7@1@good for you,@12.0@3.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+severity@8@1@[severit] [y] :	[severit] [condition or process of],@51.0@7.0@1@0
+pemphigus@9@1@[pe] [mphigus] :	[penis] [mphigus],@34.0@4.0@1@0
+vary@4@1@[v] [ary] :	[volt] [pertaining to],@34.0@5.0@1@0
+mucous@6@1@portion of mucus,mucus layer,@13.5@2.5@2@0
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@0
+lining@6@1@describe,linear,@7.0@1.0@2@0
+lining@6@1@run along,trace,draw,describe,linear,@6.4@1.2@5@0
+lining@6@1@describe,linear,@7.0@1.0@2@0
+exact@5@1@[ex] [act] :	[out of, away from] [milk],@19.0@4.0@2@0
+unknown@7@1@not known,@9.0@2.0@1@0
+untreated@9@1@did not receive therapy or drug for,not treatabl,@23.5@4.5@2@0
+disorders@9@1@diseases,@8.0@1.0@1@0
+untreated@9@1@did not receive therapy or drug for,not treatabl,@23.5@4.5@2@0
+lining@6@1@run along,trace,draw,describe,linear,@6.4@1.2@5@0
+untreated@9@1@did not receive therapy or drug for,not treatabl,@23.5@4.5@2@0
+surfaces@8@1@open,control surface,@9.5@1.5@2@0
+untreated@9@1@did not receive therapy or drug for,not treatabl,@23.5@4.5@2@0
+pemphigus@9@1@[pe] [mphigus] :	[penis] [mphigus],@34.0@4.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+immune@6@1@resistant,@9.0@1.0@1@0
+mistakenly@10@1@[mistakenl] [y] :	[mistakenl] [condition or process of],@55.0@7.0@1@0
+attacks@7@1@round,set on,attack behavior,@8.666666666666666@1.6666666666666667@3@0
+healthy@7@1@good for you,sound,@8.5@2.0@2@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+severity@8@1@intensity,with intensity,@11.5@1.5@2@1
+vary@4@1@change,@6.0@1.0@1@0
+characterized@13@1@qualify,@7.0@1.0@1@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+eruptions@9@1@volcanic eruption,outbreak,bang,clap,blast,bam,@6.833333333333333@1.1666666666666667@6@1
+outer@5@1@out,prohibited,external,outside,@7.0@1.0@4@1
+layer@5@1@bed,level,@4.0@1.0@2@0
+outer@5@1@out,prohibited,external,outside,@7.0@1.0@4@1
+epidermis@9@1@epidermal,epidermal tissue,epidermal cells,@13.333333333333334@1.6666666666666667@3@0
+lesions@7@1@wound,@5.0@1.0@1@1
+mucous@6@1@mucus,portion of mucus,mucus layer,@10.666666666666666@2.0@3@0
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@1
+lining@6@1@run along,trace,draw,describe,linear,@6.4@1.2@5@1
+mouth@5@1@back talk,os,oral part of face,oral region,@9.75@2.25@4@0
+mucous@6@1@mucus,portion of mucus,mucus layer,@10.666666666666666@2.0@3@0
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@1
+thin@4@1@[th] [in] :	[thursday] [movement],@33.0@4.0@1@0
+moist@5@1@wet,@3.0@1.0@1@1
+coverings@9@1@natural covering,screening,masking,application,coating,@10.0@1.2@5@0
+surfaces@8@1@open,control surface,@9.5@1.5@2@0
+surfaces@8@1@open,control surface,@9.5@1.5@2@0
+untreated@9@1@did not receive therapy or drug for,not treatabl,@23.5@4.5@2@1
+fatal@5@1@black,death related to adverse event,@17.5@3.0@2@0
+fatal@5@1@black,death related to adverse event,@17.5@3.0@2@0
+fatal@5@1@black,death related to adverse event,@17.5@3.0@2@0
+exact@5@1@accurate,@8.0@1.0@1@0
+unknown@7@1@not known,@9.0@2.0@1@1
+intersections@13@1@intersection point,point of intersection,product,overlap,convergence,@12.8@1.6@5@0
+interact@8@1@[inter] [act] :	[between, among] [milk],@19.0@3.0@2@0
+interact@8@1@[inter] [act] :	[between, among] [milk],@19.0@3.0@2@0
+theoretical@11@1@theory,@6.0@1.0@1@1
+polycythemia@12@1@abnormally shaped erythrocytes,@30.0@3.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+chronic@7@1@[chron] [ic] :	[chron] [pertaining to],@38.0@5.0@1@0
+disorder@8@1@diseases,diseases and disorders,condition,@13.0@1.6666666666666667@3@1
+involving@9@1@affect,regard,ask,need,require,call for,demand,@5.714285714285714@1.1428571428571428@7@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+bone@4@1@[b] [one] :	[bacillus] [],@25.0@4.0@1@0
+marrow@6@1@substance,heart,heart and soul,meat,@8.0@1.5@4@0
+myeloproliferation@18@1@[myelo] [prolifer] [ation] :	[marrow, bone marrow] [prolifer] [process],@35.0@4.5@2@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+dramatic@8@1@[drama] [tic] :	[play] [pertaining to],@38.0@5.0@1@0
+involving@9@1@affect,regard,ask,need,require,call for,demand,@5.714285714285714@1.1428571428571428@7@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+involving@9@1@affect,regard,ask,need,require,call for,demand,@5.714285714285714@1.1428571428571428@7@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+involving@9@1@affect,regard,ask,need,require,call for,demand,@5.714285714285714@1.1428571428571428@7@0
+involving@9@1@affect,regard,ask,need,require,call for,demand,@5.714285714285714@1.1428571428571428@7@0
+involving@9@1@affect,regard,ask,need,require,take,call for,demand,@5.5@1.125@8@0
+involving@9@1@affect,regard,ask,need,require,take,call for,demand,@5.5@1.125@8@0
+rare@4@1@not very often,@14.0@3.0@1@0
+chronic@7@1@[chron] [ic] :	[chron] [pertaining to],@38.0@5.0@1@0
+disorder@8@1@diseases,diseases and disorders,condition,@13.0@1.6666666666666667@3@1
+myeloproliferation@18@1@[myelo] [prolifer] [ation] :	[marrow, bone marrow] [prolifer] [process],@35.0@4.5@2@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+dramatic@8@1@[drama] [tic] :	[play] [pertaining to],@38.0@5.0@1@0
+platelets@9@1@plt platelet,platelet blood,blood platelet counts,blood platelet numbers,platelet counts,platelet numbers,platelet count measurement,@18.0@2.4285714285714284@7@0
+elevated@8@1@high,highly,higher,@5.333333333333333@1.0@3@1
+elevated@8@1@high,highly,higher,@5.333333333333333@1.0@3@1
+overproduced@12@1@[ov] [erproduced] :	[Of or pertaining to the eggs, the ovum] [erproduced],@36.0@6.0@2@0
+marrow@6@1@substance,heart,heart and soul,meat,@8.0@1.5@4@0
+leads@5@1@direct,result,go,@4.666666666666667@1.0@3@1
+abnormally@10@1@not normal,@10.0@2.0@1@1
+abnormally@10@1@not normal,@10.0@2.0@1@1
+circulating@11@1@go around,spread,pass around,pass on,@8.25@1.75@4@0
+consequently@12@1@therefore,@9.0@1.0@1@1
+hyperviscosity@14@1@serum viscosity increased,@25.0@3.0@1@0
+smaller@7@1@small,little,minor,low,less,minutes,@5.0@1.0@6@1
+vessels@7@1@blood vessel structure,blood vessel trunk,@20.0@3.0@2@0
+properly@8@1@in good order,right,the right way,by rights,@10.0@2.25@4@1
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+occur@5@1@happen,fall out,come about,@8.0@1.6666666666666667@3@1
+nonspecific@11@1@not specific,@12.0@2.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+headaches@9@1@concern,worry,head pain,pain head,pain in head,pain in head nos,@9.666666666666666@2.1666666666666665@6@0
+fatigue@7@1@decreased energy,loss of energy,lack of energy,energy loss,tired all the time,@14.6@2.8@5@1
+nonspecific@11@1@not specific,@12.0@2.0@1@0
+weakness@8@1@strength loss of,feels weak,of strength loss,weak feeling,feel weak,loss of strength,loss strength,strength loss,@13.125@2.375@8@1
+dizziness@9@1@vertigo,spinning sensation,vertigo subjective,dizzy spell,vertigo nos,dizzy frequency,how often dizzy,have been dizzy,@13.75@2.125@8@1
+itchy@5@1@itching,itching skin,@9.5@1.5@2@1
+enlarged@8@1@enlargement procedure,@21.0@2.0@1@0
+spleen@6@1@short temper,@12.0@2.0@1@0
+splenomegaly@12@1@spleen enlarged,enlarged spleen,enlargement spleen,spleen large,enlargement of spleen,large spleen,increased spleen size,@16.285714285714285@2.2857142857142856@7@0
+gastrointestinal@16@1@[gastro] [intestin] [al] :	[stomach] [intestin] [pertaining to],@63.0@7.0@1@0
+clot@4@1@thrombosis,@10.0@1.0@1@0
+formation@9@1@constitution,organization,form,Use verb form: form,@11.75@1.75@4@1
+vital@5@1@critical,full of life,@10.0@2.0@2@1
+organs@6@1@electric organ,electronic organ,pipe organ,reed organ,variety meat,@12.4@2.0@5@0
+mutation@8@1@mutant,variation,genetic change,Use verb form: mutate,@12.5@2.0@4@1
+exact@5@1@accurate,@8.0@1.0@1@0
+mutation@8@1@mutant,variation,genetic change,Use verb form: mutate,@12.5@2.0@4@1
+belongs@7@1@go,belong to,@5.5@1.5@2@0
+diseases@8@1@condition,@9.0@1.0@1@1
+myeloproliferative@18@1@[myelo] [proliferative] :	[marrow, bone marrow] [proliferative],@31.0@3.5@2@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+commonly@8@1@normally,usually,@7.5@1.0@2@1
+mpds@4@1@mpd synthase,@12.0@2.0@1@0
+chronic@7@1@[chron] [ic] :	[chron] [pertaining to],@38.0@5.0@1@0
+myeloid@7@1@[myelo] [oid] :	[marrow, bone marrow] [resemblance to],@26.5@4.0@2@0
+leukemia@8@1@cancer of the blood,@19.0@4.0@1@0
+leukemia@8@1@cancer of the blood,@19.0@4.0@1@0
+thrombocythemia@15@1@thrombocytosis,platelet count increased,elevated platelet count,@20.333333333333332@2.3333333333333335@3@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+myelofibrosis@13@1@fibrosis bone marrow,bone fibrosis marrow,bone marrow fibrosis,idiopathic bone marrow fibrosis,@22.75@3.25@4@0
+pertianing@10@1@[per] [tianing] :	[through] [tianing],@37.0@4.0@1@0
+pertianing@10@1@[per] [tianing] :	[through] [tianing],@37.0@4.0@1@0
+pertianing@10@1@[per] [tianing] :	[through] [tianing],@37.0@4.0@1@0
+stomach@7@1@belly,@5.0@1.0@1@0
+gastrointestinal@16@1@[gastro] [intestin] [al] :	[stomach] [intestin] [pertaining to],@63.0@7.0@1@0
+pertaining@10@1@refer,relate,concern,come to,bear on,touch,touch on,@6.428571428571429@1.4285714285714286@7@0
+stomach@7@1@belly,@5.0@1.0@1@0
+classified@10@1@class,@5.0@1.0@1@1
+thrombocythemia@15@1@thrombocytosis,platelet count increased,elevated platelet count,@20.333333333333332@2.3333333333333335@3@0
+myelofibrosis@13@1@fibrosis bone marrow,bone fibrosis marrow,bone marrow fibrosis,idiopathic bone marrow fibrosis,@22.75@3.25@4@0
+platelets@9@1@plt platelet,platelet blood,blood platelet counts,blood platelet numbers,platelet counts,platelet numbers,platelet count measurement,@18.0@2.4285714285714284@7@0
+dramatic@8@1@[drama] [tic] :	[play] [pertaining to],@38.0@5.0@1@0
+lack@4@1@want,Use verb form: lack,@11.5@2.5@2@0
+itching@7@1@rub,scratch,@5.0@1.0@2@0
+pertaining@10@1@refer,relate,concern,come to,bear on,touch,touch on,@6.428571428571429@1.4285714285714286@7@0
+gastrointestinal@16@1@[gastro] [intestin] [al] :	[stomach] [intestin] [pertaining to],@63.0@7.0@1@0
+gastrointestinal@16@1@[gastro] [intestin] [al] :	[stomach] [intestin] [pertaining to],@63.0@7.0@1@0
+variation@9@1@sport,Use verb form: vary,@12.0@2.5@2@0
+exact@5@1@accurate,@8.0@1.0@1@0
+variation@9@1@sport,Use verb form: vary,@12.0@2.5@2@0
+conditiosn@10@1@[co] [nditiosn] :	[with, together, in association] [nditiosn],@19.666666666666668@3.0@3@0
+myelofibrosis@13@1@fibrosis bone marrow,bone fibrosis marrow,bone marrow fibrosis,idiopathic bone marrow fibrosis,@22.75@3.25@4@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+leukemia@8@1@cancer of the blood,@19.0@4.0@1@0
+thrombocythemia@15@1@thrombocytosis,platelet count increased,elevated platelet count,@20.333333333333332@2.3333333333333335@3@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+chronic@7@1@[chron] [ic] :	[chron] [pertaining to],@38.0@5.0@1@0
+inflammatory@12@1@[inflammator] [y] :	[inflammator] [condition or process of],@59.0@7.0@1@0
+airways@7@1@air passage,air lane,flight path,respiratory tract,airline business,@12.6@2.0@5@1
+respiratory@11@1@[re] [spirator] [y] :	[again, back] [spirator] [condition or process of],@35.5@5.5@2@0
+recurring@9@1@[re] [curring] :	[again, back] [curring],@19.5@3.0@2@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+reversible@10@1@[re] [versib] [le] :	[again, back] [versib] [small or little],@30.0@5.0@2@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+obstruction@11@1@obstacle,blocked,Use verb form: obstruct,@12.666666666666666@2.0@3@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+reversible@10@1@[re] [versib] [le] :	[again, back] [versib] [small or little],@30.0@5.0@2@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+obstruction@11@1@obstacle,blocked,Use verb form: obstruct,@12.666666666666666@2.0@3@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+panting@7@1@rapid shallow breathing,@23.0@3.0@1@0
+chronic@7@1@continuing,@10.0@1.0@1@0
+disease@7@1@condition,@9.0@1.0@1@1
+tract@5@1@piece of land,piece of ground,parcel of land,parcel,@12.0@2.5@4@0
+characterized@13@1@qualify,@7.0@1.0@1@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+obstruction@11@1@obstacle,blocked,Use verb form: obstruct,@12.666666666666666@2.0@3@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+obstruction@11@1@obstacle,blocked,Use verb form: obstruct,@12.666666666666666@2.0@3@0
+bronchospasm@12@1@bronchial spasm,spasm bronchial,@15.0@2.0@2@1
+spasm@5@1@cramp,spasms nos,muscle cramps,cramp muscle,muscles cramps,muscular cramps,cramps muscles,@11.857142857142858@1.8571428571428572@7@0
+include@7@1@has part,@8.0@2.0@1@0
+coughing@8@1@tos,cough symptom,@8.0@1.5@2@0
+chest@5@1@breast,bureau,@6.0@1.0@2@0
+tightness@9@1@concentration,density,closeness,@9.666666666666666@1.0@3@0
+classified@10@1@class,@5.0@1.0@1@1
+according@9@1@agreement,@9.0@1.0@1@0
+frequency@9@1@how often,@9.0@2.0@1@1
+occur@5@1@happen,go on,pass off,pass,fall out,come about,take place,come,took place,@7.222222222222222@1.6666666666666667@9@1
+forced@6@1@pressure,drive,@6.5@1.0@2@0
+expiratory@10@1@expiration,expiration body function,@17.0@2.0@2@1
+peak@4@1@flower,prime,height,top,tip,point,bill,the highest point,@6.125@1.25@8@0
+expiratory@10@1@expiration,expiration body function,@17.0@2.0@2@1
+flow@4@1@current,period,@6.5@1.0@2@0
+expiratory@10@1@expiration,expiration body function,@17.0@2.0@2@1
+expiratory@10@1@expiration,expiration body function,@17.0@2.0@2@1
+flow@4@1@current,period,@6.5@1.0@2@0
+classified@10@1@class,@5.0@1.0@1@1
+extrinsic@9@1@external,outside,exogenous,outer,@7.25@1.0@4@1
+intrinsic@9@1@internally,inside,inner,@7.0@1.0@3@1
+extrinsic@9@1@external,outside,exogenous,outer,@7.25@1.0@4@1
+intrinsic@9@1@internally,inside,inner,@7.0@1.0@3@1
+extrinsic@9@1@external,outside,exogenous,outer,@7.25@1.0@4@1
+intrinsic@9@1@internally,inside,inner,@7.0@1.0@3@1
+caused@6@1@do,make,have,get,@3.25@1.0@4@0
+combination@11@1@Use verb form: combine,@22.0@4.0@1@0
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+environmental@13@1@environment,@11.0@1.0@1@1
+factors@7@1@agent,@5.0@1.0@1@0
+treatment@9@1@discussion,Use verb form: treat,@15.0@2.5@2@0
+acute@5@1@sharp,@5.0@1.0@1@0
+inhaled@7@1@inspired,breathe in,ih,respiratory aspiration,breathing in,breathing inspiration,in breathing,breathing,respiratory inspiration,inspiration function,@13.9@1.7@10@0
+salbutamol@10@1@albuterol,@9.0@1.0@1@0
+prevented@9@1@keep,@4.0@1.0@1@0
+avoiding@8@1@head off,ward off,keep off,void,@7.0@1.75@4@0
+triggers@8@1@gun trigger,induction,initiation,@10.0@1.3333333333333333@3@0
+irritants@9@1@thorn,@5.0@1.0@1@0
+inhaling@8@1@inspire,breathe in,ih,respiratory aspiration,breathing in,breathing inspiration,in breathing,breathing,respiratory inspiration,inspiration function,@13.8@1.7@10@1
+corticosteroids@15@1@adrenal cortical steroid,adrenal cortex hormones,adrenal cortical hormone,@23.666666666666668@3.0@3@0
+antagonists@11@1@opponent,@8.0@1.0@1@0
+effective@9@1@good,in force,@6.0@1.5@2@0
+corticosteroids@15@1@adrenal cortical steroid,adrenal cortex hormones,adrenal cortical hormone,@23.666666666666668@3.0@3@0
+thus@4@1@therefore,so,@5.5@1.0@2@1
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@0
+pattern@7@1@form,practice,design,figure,normal,rule,@5.666666666666667@1.0@6@0
+response@8@1@reply,Use verb form: respond,@13.5@2.5@2@0
+therapy@7@1@treatment,tx,treatment method,method treatment,methods treatment,th,disease management,@11.428571428571429@1.5714285714285714@7@1
+prevalence@10@1@statistical proportion,@22.0@2.0@1@0
+has@3@1@have,@4.0@1.0@1@0
+affected@8@1@impact,bear upon,bear on,touch on,touch,move,@6.5@1.5@6@1
+caused@6@1@do,make,have,get,@3.25@1.0@4@0
+deaths@6@1@last,end,destruction,dead,biological death,died,has died,@7.142857142857143@1.2857142857142858@7@0
+proper@6@1@right,@5.0@1.0@1@1
+therapy@7@1@treatment,tx,treatment method,method treatment,methods treatment,th,disease management,@11.428571428571429@1.5714285714285714@7@1
+prognosis@9@1@forecast,prospect,prediction of outcome,forecast of outcome,outcome prediction,Use verb form: prognose,@16.166666666666668@2.3333333333333335@6@1
+generally@9@1@by and large,more often than not,in general,in the main,@13.0@3.0@4@0
+good@4@1@just,@4.0@1.0@1@0
+causes@6@1@reason,campaign,drive,movement,effort,case,et,caused by,@6.0@1.125@8@0
+caused@6@1@do,make,have,get,@3.25@1.0@4@0
+environmental@13@1@environment,@11.0@1.0@1@1
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+factors@7@1@agent,@5.0@1.0@1@0
+factors@7@1@agent,@5.0@1.0@1@0
+influence@9@1@act upon,work,determine,@7.0@1.3333333333333333@3@1
+severe@6@1@hard,serious,high grade,grade high,@7.75@1.5@4@1
+well@4@1@good,@4.0@1.0@1@0
+responds@8@1@react,answer,reply,@5.333333333333333@1.0@3@1
+medication@10@1@medicine,drugs,drug product,Use verb form: medicate,@12.0@2.0@4@1
+reacts@6@1@respond,oppose,@6.5@1.0@2@1
+interaction@11@1@Use verb form: interact,@23.0@4.0@1@0
+fully@5@1@to the full,full,in full,@7.333333333333333@2.0@3@0
+understood@10@1@understanding,@13.0@1.0@1@0
+studying@8@1@examine,canvas,consider,learn,read,take,hit the books,@6.714285714285714@1.2857142857142858@7@1
+prevalence@10@1@statistical proportion,@22.0@2.0@1@0
+diseases@8@1@condition,@9.0@1.0@1@1
+fever@5@1@body temperature increased,temperature increase,increased body temperature,increases temperature,increase temperature,raised temperature,high body temperature,high temperature,@21.0@2.375@8@0
+yielded@7@1@give,afford,give way,render,return,generate,grant,move over,ease up,pay,bear,give in,buckle under,@6.538461538461538@1.3846153846153846@13@1
+clues@5@1@hint,cue,@3.5@1.0@2@0
+factors@7@1@agent,@5.0@1.0@1@0
+strongest@9@1@strong,stiff,secure,solid,substantial,hard,warm,firm,@5.625@1.0@8@0
+developing@10@1@get,spring up,build up,break,@6.25@1.5@4@1
+disease@7@1@condition,@9.0@1.0@1@1
+condition@9@1@status,term,@5.0@1.0@2@0
+condition@9@1@status,term,@5.0@1.0@2@0
+fever@5@1@body temperature increased,temperature increase,increased body temperature,increases temperature,increase temperature,raised temperature,high body temperature,high temperature,@21.0@2.375@8@0
+ages@4@1@long time,years,old age,@7.0@1.6666666666666667@3@0
+positive@8@1@plus,@4.0@1.0@1@0
+allergies@9@1@allergy disorders,sensitive,@13.0@1.5@2@0
+immunoglobulin@14@1@ig,antibody,@5.0@1.0@2@0
+chance@6@1@opportunity,@11.0@1.0@1@0
+having@6@1@have got,experience,get,own,let,take in,take,make,give,@5.111111111111111@1.2222222222222223@9@1
+reacts@6@1@respond,oppose,@6.5@1.0@2@1
+responds@8@1@react,answer,reply,@5.333333333333333@1.0@3@1
+higher@6@1@high,@4.0@1.0@1@0
+having@6@1@have got,experience,get,own,let,take in,take,make,give,@5.111111111111111@1.2222222222222223@9@1
+associated@10@1@link,link up,@5.5@1.5@2@1
+western@7@1@west,@4.0@1.0@1@0
+styles@6@1@manner,mode,way,fashion,@5.0@1.0@4@0
+favor@5@1@prefer,@6.0@1.0@1@0
+greater@7@1@great,not bad,capital,big,large,with child,larger,@6.142857142857143@1.2857142857142858@7@0
+exposure@8@1@photo,picture,pic,ex,@4.25@1.0@4@0
+exposure@8@1@photo,picture,pic,ex,@4.25@1.0@4@0
+attention@9@1@care,aid,Use verb form: attend,@9.333333333333334@2.0@3@0
+has@3@1@have,@4.0@1.0@1@0
+focused@7@1@focus,center,has focus,@6.666666666666667@1.3333333333333333@3@1
+exposure@8@1@photo,picture,pic,ex,@4.25@1.0@4@0
+infancy@7@1@early childhood,infant stage,@13.5@2.0@2@0
+early@5@1@other,time before,before time,@9.0@1.6666666666666667@3@0
+childhood@9@1@child life stage,@16.0@3.0@1@0
+primary@7@1@main,@4.0@1.0@1@1
+cause@5@1@drive,case,et,Use verb form: cause,@7.75@1.75@4@0
+rise@4@1@upgrade,cost increase,advance,Use verb form: rise,@11.5@2.0@4@0
+primary@7@1@main,@4.0@1.0@1@1
+prevention@10@1@bar,Use verb form: prevent,@12.5@2.5@2@0
+studies@7@1@work,report,subject,subject area,subject field,field,field of study,@8.714285714285714@1.5714285714285714@7@0
+aimed@5@1@take,train,take aim,direct,purpose,drive,get,calculate,target,place,point,shoot for,@6.0@1.1666666666666667@12@0
+reduction@9@1@Use verb form: reduce,@21.0@4.0@1@0
+infants@7@1@baby,babe,@4.0@1.0@2@0
+mixed@5@1@miscellaneous,@13.0@1.0@1@0
+reduction@9@1@Use verb form: reduce,@21.0@4.0@1@0
+example@7@1@model,case,@4.5@1.0@2@0
+reduces@7@1@cut down,cut back,trim,trim down,trim back,cut,bring down,come down,scale down,keep down,contract,thin,thin out,lose weight,slim,slim down,@7.6875@1.6875@16@1
+sensitization@13@1@Use verb form: sensitize,@24.0@4.0@1@0
+mites@5@1@touch,hint,pinch,@4.666666666666667@1.0@3@0
+common@6@1@[com] [mon] :	[with, together] [monday],@19.0@3.0@2@0
+chronic@7@1@continuing,@10.0@1.0@1@0
+inflammatory@12@1@[inflammator] [y] :	[inflammator] [condition or process of],@59.0@7.0@1@0
+condition@9@1@status,term,@5.0@1.0@2@0
+respiratory@11@1@[re] [spirator] [y] :	[again, back] [spirator] [condition or process of],@35.5@5.5@2@0
+tract@5@1@piece of land,piece of ground,parcel of land,parcel,@12.0@2.5@4@0
+characterized@13@1@qualify,@7.0@1.0@1@0
+variable@8@1@[variab] [le] :	[variab] [small or little],@42.0@6.0@1@0
+recurring@9@1@[re] [curring] :	[again, back] [curring],@19.5@3.0@2@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+reversible@10@1@[re] [versib] [le] :	[again, back] [versib] [small or little],@30.0@5.0@2@0
+airflow@7@1@air flow,flow of air,@9.5@2.5@2@0
+obstruction@11@1@obstacle,blocked,Use verb form: obstruct,@12.666666666666666@2.0@3@0
+bronchial@9@1@[bronchi] [al] :	[of or relating to the bronchus] [pertaining to],@65.0@10.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+include@7@1@has part,@8.0@2.0@1@0
+coughing@8@1@tos,cough symptom,@8.0@1.5@2@0
+tightness@9@1@concentration,density,closeness,@9.666666666666666@1.0@3@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+clinically@10@1@[clinicall] [y] :	[clinicall] [condition or process of],@55.0@7.0@1@0
+classed@7@1@classify,sort,sort out,separate,@7.0@1.25@4@0
+according@9@1@agreement,@9.0@1.0@1@0
+often@5@1@much,@4.0@1.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+happen@6@1@go on,pass off,pass,fall out,come about,take place,find,chance,took place,@7.222222222222222@1.6666666666666667@9@0
+forced@6@1@pressure,drive,@6.5@1.0@2@0
+expiration@10@1@termination,passing,loss,departure,exit,going,release,breathing out,Use verb form: expire,@9.0@1.4444444444444444@9@0
+volume@6@1@book,@4.0@1.0@1@0
+peak@4@1@flower,prime,height,top,tip,point,bill,the highest point,@6.125@1.25@8@0
+expiration@10@1@termination,passing,loss,departure,exit,going,release,breathing out,Use verb form: expire,@9.0@1.4444444444444444@9@0
+flow@4@1@current,period,@6.5@1.0@2@0
+also@4@1@[a] [lso] :	[not, without] [lso],@15.5@3.0@2@0
+classed@7@1@classify,sort,sort out,separate,@7.0@1.25@4@0
+atopic@6@1@[a] [top] [ic] :	[not, without] [top side] [pertaining to],@28.5@5.0@2@0
+external@8@1@outside,international,@10.0@1.0@2@0
+atopic@6@1@[a] [top] [ic] :	[not, without] [top side] [pertaining to],@28.5@5.0@2@0
+external@8@1@outside,international,@10.0@1.0@2@0
+acute@5@1@sharp,@5.0@1.0@1@0
+internal@8@1@home,national,inside,@6.0@1.0@3@0
+extrinsic@9@1@external,outside,exogenous,outer,@7.25@1.0@4@0
+intrinsic@9@1@internally,inside,inner,@7.0@1.0@3@0
+extrinsic@9@1@external,outside,exogenous,outer,@7.25@1.0@4@0
+intrinsic@9@1@internally,inside,inner,@7.0@1.0@3@0
+caused@6@1@do,make,have,get,@3.25@1.0@4@0
+combination@11@1@Use verb form: combine,@22.0@4.0@1@0
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+environmental@13@1@environment,@11.0@1.0@1@0
+factors@7@1@agent,@5.0@1.0@1@0
+treating@8@1@handle,do by,process,care for,cover,deal,address,treatment,treated with,@7.0@1.3333333333333333@9@0
+acute@5@1@sharp,@5.0@1.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+usually@7@1@[usuall] [y] :	[usuall] [condition or process of],@49.0@7.0@1@0
+inhaled@7@1@inspired,breathe in,ih,respiratory aspiration,breathing in,breathing inspiration,in breathing,breathing,respiratory inspiration,inspiration function,@13.9@1.7@10@0
+agonist@7@1@[a] [gon] [ist] :	[not, without] [gon] [one who specializes in],@31.0@5.5@2@0
+salbutamol@10@1@albuterol,@9.0@1.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+prevented@9@1@keep,@4.0@1.0@1@0
+avoiding@8@1@head off,ward off,keep off,void,@7.0@1.75@4@0
+triggers@8@1@gun trigger,induction,initiation,@10.0@1.3333333333333333@3@0
+allergens@9@1@[all] [ergens] :	[Denoting something as different, or as an addition] [ergens],@38.5@6.0@2@0
+irritants@9@1@thorn,@5.0@1.0@1@0
+breathing@9@1@function respiratory,functions respiratory,respiratory function,respiratory system process,inspiration,respiratory inspiration,inspiration function,Use verb form: breathe,@20.375@2.25@8@0
+corticosteroids@15@1@adrenal cortical steroid,adrenal cortex hormones,adrenal cortical hormone,@23.666666666666668@3.0@3@0
+leukotriene@11@1@[leuko] [triene] :	[Denoting a white color] [triene],@52.0@7.0@1@0
+antagonists@11@1@opponent,@8.0@1.0@1@0
+effective@9@1@good,in force,@6.0@1.5@2@0
+corticosteroids@15@1@adrenal cortical steroid,adrenal cortex hormones,adrenal cortical hormone,@23.666666666666668@3.0@3@0
+therefore@9@1@so,@2.0@1.0@1@0
+preferred@9@1@[pre] [ferred] :	[Denotes something as 'before' another (in [physical] position or time)] [ferred],@98.0@13.0@1@0
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@0
+usually@7@1@[usuall] [y] :	[usuall] [condition or process of],@49.0@7.0@1@0
+based@5@1@[bas] [ed] :	[Of or pertaining to base] [erectile dysfunction],@62.0@9.0@1@0
+pattern@7@1@form,practice,design,figure,normal,rule,@5.666666666666667@1.0@6@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+response@8@1@reply,Use verb form: respond,@13.5@2.5@2@0
+treatment@9@1@discussion,Use verb form: treat,@15.0@2.5@2@0
+prevalence@10@1@statistical proportion,@22.0@2.0@1@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+significantly@13@1@[significantl] [y] :	[significantl] [condition or process of],@61.0@7.0@1@0
+people@6@1@[peo] [p] [le] :	[penis] [phosphorus] [small or little],@55.0@8.0@1@0
+impacted@8@1@affect,bear upon,bear on,touch on,touch,retained tooth,impact tooth,teeth impact,@9.125@1.75@8@1
+impacted@8@1@affect,bear upon,bear on,touch on,touch,retained tooth,impact tooth,teeth impact,@9.125@1.75@8@1
+globally@8@1@[globall] [y] :	[globall] [condition or process of],@51.0@7.0@1@0
+right@5@1@good,@4.0@1.0@1@0
+control@7@1@[co] [ntrol] :	[with, together, in association] [ntrol],@17.666666666666668@3.0@3@0
+control@7@1@[co] [ntrol] :	[with, together, in association] [ntrol],@17.666666666666668@3.0@3@0
+good@4@1@just,@4.0@1.0@1@0
+control@7@1@[co] [ntrol] :	[with, together, in association] [ntrol],@17.666666666666668@3.0@3@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+treatment@9@1@discussion,Use verb form: treat,@15.0@2.5@2@0
+outcome@7@1@result,final result,effect,event,issue,out,@6.166666666666667@1.1666666666666667@6@0
+generally@9@1@by and large,more often than not,in general,in the main,@13.0@3.0@4@0
+good@4@1@just,@4.0@1.0@1@0
+caused@6@1@do,make,have,get,@3.25@1.0@4@0
+environmental@13@1@environment,@11.0@1.0@1@0
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+factors@7@1@agent,@5.0@1.0@1@0
+determine@9@1@find,find out,set,square off,square up,check,see,watch,learn,@5.777777777777778@1.3333333333333333@9@0
+factors@7@1@agent,@5.0@1.0@1@0
+determine@9@1@find,find out,set,square off,square up,check,see,watch,learn,@5.777777777777778@1.3333333333333333@9@0
+serious@7@1@good,@4.0@1.0@1@0
+well@4@1@good,@4.0@1.0@1@0
+responds@8@1@react,answer,reply,@5.333333333333333@1.0@3@0
+medicine@8@1@music,medical science,drug product,@10.666666666666666@1.6666666666666667@3@0
+interaction@11@1@Use verb form: interact,@23.0@4.0@1@0
+complex@7@1@[com] [plex] :	[with, together] [plex],@18.5@3.0@2@0
+fully@5@1@to the full,full,in full,@7.333333333333333@2.0@3@0
+understood@10@1@understanding,@13.0@1.0@1@0
+examining@9@1@analyze,study,canvas,see,probe,test,prove,try,try out,essay,@5.0@1.1@10@1
+prevalence@10@1@statistical proportion,@22.0@2.0@1@0
+related@7@1@[re] [lated] :	[again, back] [lated],@17.5@3.0@2@0
+conditions@10@1@[co] [nditions] :	[with, together, in association] [nditions],@19.666666666666668@3.0@3@0
+eczema@6@1@[ec] [zema] :	[out, away] [zema],@15.5@3.0@2@0
+hay@3@1@[ha] [y] :	[hour angle] [condition or process of],@49.0@8.0@1@0
+given@5@1@give,@4.0@1.0@1@0
+clues@5@1@hint,cue,@3.5@1.0@2@0
+strongest@9@1@strong,stiff,secure,solid,substantial,hard,warm,firm,@5.625@1.0@8@0
+atopic@6@1@[a] [top] [ic] :	[not, without] [top side] [pertaining to],@28.5@5.0@2@0
+diseases@8@1@condition,@9.0@1.0@1@0
+increase@8@1@[incre] [ase] :	[incre] [enzyme],@32.0@4.0@1@0
+chance@6@1@opportunity,@11.0@1.0@1@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+adults@6@1@[ad] [ults] :	[at, increase, on, toward] [ults],@11.0@2.5@4@0
+allergens@9@1@[all] [ergens] :	[Denoting something as different, or as an addition] [ergens],@38.5@6.0@2@0
+reacts@6@1@respond,oppose,@6.5@1.0@2@0
+positively@10@1@[positivel] [y] :	[positivel] [condition or process of],@55.0@7.0@1@0
+allergic@8@1@[all] [erg] [ic] :	[Denoting something as different, or as an addition] [erg] [pertaining to],@46.0@7.5@2@0
+linked@6@1@associate,link up,connect,join,@6.75@1.25@4@0
+attention@9@1@care,aid,Use verb form: attend,@9.333333333333334@2.0@3@0
+centered@8@1@focus on,center on,focus,central,central location,in center,@9.0@1.6666666666666667@6@1
+exposure@8@1@photo,picture,pic,ex,@4.25@1.0@4@0
+allergens@9@1@[all] [ergens] :	[Denoting something as different, or as an addition] [ergens],@38.5@6.0@2@0
+aggressive@10@1@[a] [ggressive] :	[not, without] [ggressive],@21.5@3.0@2@0
+reduction@9@1@Use verb form: reduce,@21.0@4.0@1@0
+airborne@8@1@[a] [irborne] :	[not, without] [irborne],@19.5@3.0@2@0
+allergens@9@1@[all] [ergens] :	[Denoting something as different, or as an addition] [ergens],@38.5@6.0@2@0
+home@4@1@[home] [] :	[similar] [null],@28.0@4.0@1@0
+home@4@1@[home] [] :	[similar] [null],@28.0@4.0@1@0
+infants@7@1@baby,babe,@4.0@1.0@2@0
+mixed@5@1@miscellaneous,@13.0@1.0@1@0
+reduction@9@1@Use verb form: reduce,@21.0@4.0@1@0
+modestly@8@1@[modestl] [y] :	[modestl] [condition or process of],@51.0@7.0@1@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+however@7@1@still,all the same,even so,@8.0@2.0@3@1
+inconsistency@13@1@[inconsistenc] [y] :	[inconsistenc] [condition or process of],@61.0@7.0@1@0
+information@11@1@not formal,@10.0@2.0@1@0
+has@3@1@have,@4.0@1.0@1@0
+inspired@8@1@root on,@7.0@2.0@1@0
+research@8@1@[re] [search] :	[again, back] [hunt],@17.5@3.0@2@0
+other@5@1@[ot] [he] [r] :	[ear] [helium] [blood vessels],@46.0@7.0@1@0
+aspects@7@1@view,scene,expression,look,face,@5.4@1.0@5@0
+western@7@1@west,@4.0@1.0@1@0
+society@7@1@club,social club,order,company,@6.75@1.25@4@0
+impact@6@1@[imp] [act] :	[elf] [milk],@26.0@4.0@1@0
+prevalence@10@1@statistical proportion,@22.0@2.0@1@0
+asthma@6@1@[a] [sthma] :	[not, without] [sthma],@17.5@3.0@2@0
+subject@7@1@national,@8.0@1.0@1@0
+seems@5@1@look,@4.0@1.0@1@0
+show@4@1@read,@4.0@1.0@1@0
+strong@6@1@secure,hard,@5.0@1.0@2@0
+correlation@11@1@Use verb form: correlate,@24.0@4.0@1@0
+development@11@1@Use verb form: develop,@22.0@4.0@1@0
+increase@8@1@[incre] [ase] :	[incre] [enzyme],@32.0@4.0@1@0
+echoed@6@1@repeat,ring,recall,@5.333333333333333@1.0@3@0
+almost@6@1@about,most,near,@4.333333333333333@1.0@3@0
+epidemic@8@1@[epi] [dem] [ic] :	[on, upon] [dem] [pertaining to],@25.0@4.5@2@0
+almost@6@1@about,most,near,@4.333333333333333@1.0@3@0
+prevalence@10@1@statistical proportion,@22.0@2.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+allergies@9@1@allergy disorders,sensitive,@13.0@1.5@2@0
+airway@6@1@air passage,air duct,air lane,flight path,respiratory tract,airline,airline business,breathing passages,@12.0@1.875@8@0
+correlation@11@1@Use verb form: correlate,@24.0@4.0@1@0
+increase@8@1@[incre] [ase] :	[incre] [enzyme],@32.0@4.0@1@0
+pathogenesis@12@1@[patho] [genesis] :	[disease] [generation],@42.0@4.0@1@0
+reduced@7@1@cut down,cut back,cut,bring down,come down,scale down,keep down,contract,@8.125@1.75@8@0
+respiratory@11@1@[re] [spirator] [y] :	[again, back] [spirator] [condition or process of],@35.5@5.5@2@0
+function@8@1@map,use,office,part,@4.0@1.0@4@0
+buildup@7@1@Use verb form: build,@20.0@4.0@1@0
+adipose@7@1@[adip] [ose] :	[Of or relating to fat or fatty tissue] [ose],@60.0@11.0@1@0
+fact@4@1@[f] [act] :	[degree fahrenheit] [milk],@38.0@5.0@1@0
+adipose@7@1@[adip] [ose] :	[Of or relating to fat or fatty tissue] [ose],@60.0@11.0@1@0
+leads@5@1@take,direct,guide,leave,result,head,run,go,pass,top,chair,@4.2727272727272725@1.0@11@0
+inflammatory@12@1@[inflammator] [y] :	[inflammator] [condition or process of],@59.0@7.0@1@0
+urticaria@9@1@hives,nettle rash,nettles rash,rash nettle,welt,hives nos,@8.666666666666666@1.6666666666666667@6@0
+consequence@11@1@effect,outcome,result,event,issue,import,moment,@5.857142857142857@1.0@7@1
+a@1@1@angstrom,angstrom unit,antiophthalmic factor,deoxyadenosine monophosphate,adenine,ampere,amp,annum,year,ar,acre,acre international,acre british,ac,ao,atto,right upper second deciduous molar tooth,structure of deciduous maxillary right second molar tooth,right primary second upper molar tooth,deciduous maxillary right second molar tooth,@15.9@2.35@20@0
+a@1@1@angstrom,angstrom unit,antiophthalmic factor,deoxyadenosine monophosphate,adenine,ampere,amp,annum,year,ar,acre,acre international,acre british,ac,ao,atto,right upper second deciduous molar tooth,structure of deciduous maxillary right second molar tooth,right primary second upper molar tooth,deciduous maxillary right second molar tooth,@15.9@2.35@20@0
+a@1@1@angstrom,angstrom unit,antiophthalmic factor,deoxyadenosine monophosphate,adenine,ampere,amp,annum,year,ar,acre,acre international,acre british,ac,ao,atto,right upper second deciduous molar tooth,structure of deciduous maxillary right second molar tooth,right primary second upper molar tooth,deciduous maxillary right second molar tooth,@15.9@2.35@20@0
+a@1@1@angstrom,angstrom unit,antiophthalmic factor,deoxyadenosine monophosphate,adenine,ampere,amp,annum,year,ar,acre,acre international,acre british,ac,ao,atto,right upper second deciduous molar tooth,structure of deciduous maxillary right second molar tooth,right primary second upper molar tooth,deciduous maxillary right second molar tooth,@15.9@2.35@20@0
+chronic@7@1@continuing,@10.0@1.0@1@0
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+disease@7@1@condition,@9.0@1.0@1@0
+characterized@13@1@qualify,@7.0@1.0@1@0
+replacement@11@1@switch,Use verb form: replace,@14.0@2.5@2@0
+fibrosis@8@1@[fibr] [osis] :	[fiber] [a condition, disease or increase],@28.5@4.5@2@0
+scar@4@1@scratch,mark,s4,@4.333333333333333@1.0@3@0
+regenerative@12@1@[re] [generative] :	[again, back] [productive],@22.5@3.0@2@0
+lumps@5@1@ball,chunk,swelling,hunk,mass,mass of body structure,@7.833333333333333@1.5@6@0
+occur@5@1@happen,go on,pass off,pass,fall out,come about,take place,come,took place,@7.222222222222222@1.6666666666666667@9@1
+result@6@1@issue,out,@4.0@1.0@2@0
+process@7@1@[pro] [cess] :	[Denotes something as 'before' another (in [physical] position or time)] [cess],@94.0@13.0@1@0
+regenerated@11@1@renew,reform,reclaim,rectify,restore,revitalize,@7.0@1.0@6@1
+leading@7@1@take,direct,guide,leave,result,head,run,go,top,before,pre,prior to,prior,@4.615384615384615@1.0769230769230769@13@1
+loss@4@1@red,going,release,Use verb form: lose,@8.5@1.75@4@0
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+function@8@1@map,use,office,part,@4.0@1.0@4@0
+cirrhosis@9@1@[cirrh] [osis] :	[cirrh] [a condition, disease or increase],@29.0@4.5@2@0
+most@4@1@about,@5.0@1.0@1@0
+commonly@8@1@normally,usually,@7.5@1.0@2@1
+caused@6@1@do,make,have,get,@3.25@1.0@4@0
+alcoholism@10@1@alcohol addiction,alcohol dependence,chronic alcohol abuse,alcohol dependence syndrome,addiction alcohol,@20.0@2.4@5@1
+hepatitis@9@1@[hepat] [itis] :	[liver] [inflammation],@39.0@4.0@1@0
+b@1@1@bacillus,boron,bel,barn,bregma junction,basal nucleus of meynert,meynert basal nucleus,ganglion of meynert,basal nuclei of meynert,basal nucleus of telencephalon,nucleus basalis,basal substance of telencephalon,basal nucleus,nucleus basalis of meynert,right upper first deciduous molar tooth,right primary first upper molar tooth,deciduous maxillary right first molar tooth,@21.0@3.176470588235294@17@0
+fatty@5@1@fat,@3.0@1.0@1@0
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+disease@7@1@condition,@9.0@1.0@1@0
+has@3@1@have,@4.0@1.0@1@0
+many@4@1@[man] [y] :	[adult male] [condition or process of],@50.0@8.0@1@0
+other@5@1@[ot] [he] [r] :	[ear] [helium] [blood vessels],@46.0@7.0@1@0
+possible@8@1@[possib] [le] :	[possib] [small or little],@42.0@6.0@1@0
+causes@6@1@reason,campaign,drive,movement,effort,case,et,caused by,@6.0@1.125@8@0
+cases@5@1@example,event,subject,type,display case,@7.0@1.2@5@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+unknown@7@1@not known,not known,@9.0@2.0@2@0
+ascites@7@1@[a] [scites] :	[not, without] [scites],@18.5@3.0@2@0
+fluid@5@1@liquid,liquid substance,@11.0@1.5@2@0
+retention@9@1@keeping,holding,memory,Use verb form: retain,@10.25@1.75@4@0
+abdominal@9@1@[abdomin] [al] :	[abdomen] [pertaining to],@42.0@5.0@1@0
+cavity@6@1@pit,enclosed space,tooth decay,decay dental,decay dent,dent decay,dental decay,decay tooth,@10.375@1.875@8@0
+fluid@5@1@liquid,liquid substance,@11.0@1.5@2@0
+most@4@1@about,@5.0@1.0@1@0
+common@6@1@[com] [mon] :	[with, together] [monday],@19.0@3.0@2@0
+complication@12@1@Use verb form: complicate,@25.0@4.0@1@0
+associated@10@1@link,link up,@5.5@1.5@2@1
+poor@4@1@short,low income,@7.5@1.5@2@0
+quality@7@1@[qualit] [y] :	[qualit] [condition or process of],@49.0@7.0@1@0
+infection@9@1@transmission,id,Use verb form: infect,@11.666666666666666@2.0@3@0
+poor@4@1@short,low income,@7.5@1.5@2@0
+outcome@7@1@result,final result,effect,event,issue,out,@6.166666666666667@1.1666666666666667@6@1
+other@5@1@[ot] [he] [r] :	[ear] [helium] [blood vessels],@46.0@7.0@1@0
+potentially@11@1@[potentiall] [y] :	[potentiall] [condition or process of],@57.0@7.0@1@0
+complications@13@1@co,@2.0@1.0@1@0
+hepatic@7@1@portal,@6.0@1.0@1@0
+encephalopathy@14@1@brain disorder,brain disease,unspecified brain disease,brain syndromes,@16.75@2.25@4@0
+confusion@9@1@easily confused,Use verb form: confuse,@18.5@3.0@2@0
+coma@4@1@[com] [a] :	[with, together] [angstrom],@19.0@3.0@2@0
+bleeding@8@1@shed blood,run,blood loss,@7.666666666666667@1.6666666666666667@3@0
+esophageal@10@1@[] [esophageal] :	[null] [gullet (AmE)],@39.0@5.0@1@0
+varices@7@1@varicose veins,vein varicose,enlarged tortuous blood vessel,varicose veins nos,@18.75@2.75@4@0
+generally@9@1@by and large,more often than not,in general,in the main,@13.0@3.0@4@0
+irreversible@12@1@[irreversib] [le] :	[irreversib] [small or little],@50.0@6.0@1@0
+generally@9@1@by and large,more often than not,in general,in the main,@13.0@3.0@4@0
+irreversible@12@1@[irreversib] [le] :	[irreversib] [small or little],@50.0@6.0@1@0
+treatment@9@1@discussion,Use verb form: treat,@15.0@2.5@2@0
+usually@7@1@[usuall] [y] :	[usuall] [condition or process of],@49.0@7.0@1@0
+focuses@7@1@focus,center,@5.5@1.0@2@0
+preventing@10@1@keep,@4.0@1.0@1@0
+progression@11@1@advance,forward motion,disease course,courses disease,course illness,course of illness,course of disorder,Use verb form: progress,@15.25@2.375@8@0
+complications@13@1@co,@2.0@1.0@1@0
+advanced@8@1@[ad] [vanced] :	[at, increase, on, toward] [vanced],@12.0@2.5@4@0
+stages@6@1@phase,degree,level,point,leg,@4.8@1.0@5@0
+only@4@1@[onl] [y] :	[onl] [condition or process of],@43.0@7.0@1@0
+option@6@1@choice,selection,@7.5@1.0@2@1
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+transplant@10@1@[trans] [plant] :	[Denoting something as moving or situated across or through] [works],@86.0@12.0@1@0
+word@4@1@news,discussion,password,book,good book,term,@6.5@1.1666666666666667@6@0
+cirrhosis@9@1@[cirrh] [osis] :	[cirrh] [a condition, disease or increase],@29.0@4.5@2@0
+derives@7@1@deduct,gain,come,@4.666666666666667@1.0@3@1
+meaning@7@1@stand for,think,think of,have in mind,@8.5@2.0@4@0
+yellowish@9@1@yellow,@6.0@1.0@1@1
+tawny@5@1@[tawn] [y] :	[tawn] [condition or process of],@45.0@7.0@1@0
+colour@6@1@color,people of color,@10.0@2.0@2@1
+diseased@8@1@morbid,@6.0@1.0@1@0
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+osis@4@1@[] [osis] :	[null] [a condition, disease or increase],@26.0@4.5@2@0
+clinical@8@1@[clinic] [al] :	[clinic] [pertaining to],@40.0@5.0@1@0
+entity@6@1@thing,item,@4.5@1.0@2@0
+also@4@1@[a] [lso] :	[not, without] [lso],@15.5@3.0@2@0
+describes@9@1@draw,report,account,line,identify,discover,key,key out,name,@5.666666666666667@1.1111111111111112@9@0
+stethoscope@11@1@[steth] [o] [scope] :	[chest] [oxygen] [instrument for viewing],@63.0@8.0@1@0
+pathophysiology@15@1@functional disorder,dysfunction,functional disturbance,pp,@13.5@1.5@4@0
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+plays@5@1@act,represent,act as,toy,run,bring,work,make for,meet,take on,does play,@5.545454545454546@1.3636363636363635@11@0
+vital@5@1@critical,full of life,@10.0@2.0@2@1
+role@4@1@function,office,part,use,@5.25@1.0@4@1
+function@8@1@map,use,office,part,@4.0@1.0@4@0
+synthesis@9@1@formation,Use verb form: synthesize,@17.0@2.5@2@1
+proteins@8@1@gene product,@12.0@2.0@1@0
+proteins@8@1@gene product,@12.0@2.0@1@0
+albumin@7@1@alb,alb gene,@5.5@1.5@2@0
+clotting@8@1@coagulation defect,blood coagulation disorder,coagulation disorder,blood coagulation defect,disorder coagulation,bleeding tendency,bleeding disorders,disorders of coagulation,abnormality of the coagulation cascade,defective coagulation nos,coagulation,coagulation process,blood coagulation,@21.307692307692307@2.4615384615384617@13@0
+complement@10@1@[com] [plement] :	[with, together] [plement],@21.5@3.0@2@0
+detoxification@14@1@metabolism of toxic agents,Use verb form: detoxify,@24.5@4.0@2@1
+storage@7@1@store,memory,computer memory,memory board,Use verb form: store,@11.6@2.0@5@1
+addition@8@1@increase,plus,add,with,Use verb form: add,@7.4@1.6@5@0
+participates@12@1@take part,enter,@7.0@1.5@2@0
+metabolism@10@1@me,@2.0@1.0@1@0
+lipids@6@1@lipid measurement,@17.0@2.0@1@0
+carbohydrates@13@1@sugar,carbs,carbohydrate nutrients,@10.666666666666666@1.3333333333333333@3@0
+often@5@1@much,@4.0@1.0@1@0
+preceded@8@1@come before,lead,preface,premise,introduce,before,pre,prior to,prior,@6.666666666666667@1.2222222222222223@9@0
+hepatitis@9@1@[hepat] [itis] :	[liver] [inflammation],@39.0@4.0@1@0
+fatty@5@1@fat,@3.0@1.0@1@0
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+steatosis@9@1@fatty change,fatty degeneration,fatty metamorphosis,changes fatty,fatty infiltration of liver,fatty liver,@16.666666666666668@2.3333333333333335@6@0
+independent@11@1@main,@4.0@1.0@1@0
+cause@5@1@drive,case,et,Use verb form: cause,@7.75@1.75@4@0
+cause@5@1@drive,case,et,Use verb form: cause,@7.75@1.75@4@0
+stores@6@1@shop,stock,@4.5@1.0@2@0
+vitamin@7@1@[vitam] [in] :	[vitam] [movement],@33.0@4.0@1@0
+development@11@1@Use verb form: develop,@22.0@4.0@1@0
+damage@6@1@price,terms,wrong,@5.0@1.0@3@0
+hepatic@7@1@portal,@6.0@1.0@1@0
+leads@5@1@take,direct,guide,leave,result,head,run,go,pass,top,chair,@4.2727272727272725@1.0@11@1
+activation@10@1@Use verb form: activate,@23.0@4.0@1@0
+cell@4@1@mobile phone,@12.0@2.0@1@0
+becomes@7@1@go,get,turn,@3.0@1.0@3@0
+contractile@11@1@muscle contraction,muscle motor activity,contraction muscular,contraction muscle,contractions muscle,muscular contractions,obsolete muscle motor activity,muscle cell contraction,@21.25@2.5@8@0
+called@6@1@name,call up,phone,send for,visit,call in,address,call off,@6.375@1.5@8@0
+myofibroblast@13@1@[myo] [fibrob] [last] :	[muscle] [fibrob] [break],@49.0@6.0@1@0
+obstructs@9@1@blockade,block,hinder,stymie,embarrass,impede,jam,close up,@6.375@1.125@8@1
+circulation@11@1@[circul] [ation] :	[circul] [process],@37.0@4.0@1@0
+addition@8@1@increase,plus,add,with,Use verb form: add,@7.4@1.6@5@0
+secretes@8@1@release,@7.0@1.0@1@1
+leads@5@1@take,direct,guide,leave,result,head,run,go,pass,top,chair,@4.2727272727272725@1.0@11@1
+result@6@1@issue,out,@4.0@1.0@2@0
+fibrotic@8@1@[fibr] [o] [tic] :	[fiber] [oxygen] [pertaining to],@51.0@7.0@1@0
+response@8@1@reply,Use verb form: respond,@13.5@2.5@2@0
+proliferation@13@1@Use verb form: proliferate,@26.0@4.0@1@0
+connective@10@1@[co] [nnective] :	[with, together, in association] [nnective],@19.666666666666668@3.0@3@0
+furthermore@11@1@moreover,what is more,@10.0@2.0@2@0
+secretes@8@1@release,@7.0@1.0@1@1
+naturally@9@1@of course,course,by nature,@8.0@1.6666666666666667@3@0
+metalloproteinases@18@1@[meta] [lloproteinases] :	[after, beyond or change] [lloproteinases],@33.5@4.0@2@0
+prevents@8@1@keep,@4.0@1.0@1@0
+breaking@8@1@separate,go against,break out,break away,break off,stop,break in,better,let on,bring out,give away,let out,fail,go bad,give way,die,give out,go,break down,part,break up,fall in,give,break dance,wear,wear out,get out,get around,develop,check,@7.033333333333333@1.6333333333333333@30@0
+fibrotic@8@1@[fibr] [o] [tic] :	[fiber] [oxygen] [pertaining to],@51.0@7.0@1@0
+material@8@1@[materi] [al] :	[materi] [pertaining to],@40.0@5.0@1@0
+extracellular@13@1@[extra] [cellula] [r] :	[outside] [cellula] [blood vessels],@59.0@7.0@1@0
+fibrous@7@1@[fibr] [ous] :	[fiber] [pertaining to],@38.0@5.0@1@0
+bands@5@1@set,circle,lot,dance band,ring,@5.2@1.2@5@0
+hepatocyte@10@1@liver cell,hepatic cells,@11.5@2.0@2@1
+eventually@10@1@finally,@7.0@1.0@1@0
+replace@7@1@put back,exchange,@8.0@1.5@2@0
+entire@6@1@full,total,whole,@4.666666666666667@1.0@3@1
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+architecture@12@1@[arch] [itecture] :	[first, primitive] [itecture],@24.0@3.0@2@0
+leading@7@1@take,direct,guide,leave,result,head,run,go,top,before,pre,prior to,prior,@4.615384615384615@1.0769230769230769@13@1
+decreased@9@1@fall,reduction,reduced,@6.666666666666667@1.0@3@1
+blood@5@1@line,stock,@4.5@1.0@2@0
+flow@4@1@current,period,@6.5@1.0@2@0
+spleen@6@1@lien,short temper,quick temper,@9.333333333333334@1.6666666666666667@3@0
+becomes@7@1@go,get,turn,@3.0@1.0@3@0
+congested@9@1@[co] [ngested] :	[with, together, in association] [ngested],@19.0@3.0@3@0
+leads@5@1@take,direct,guide,leave,result,head,run,go,pass,top,chair,@4.2727272727272725@1.0@11@1
+hypersplenism@13@1@[hyper] [splen] [ism] :	[Denotes something as 'extreme' or 'beyond normal'] [splen] [condition, disease],@51.5@7.0@2@0
+sequestration@13@1@segregation,requisition,Use verb form: sequester,@15.333333333333334@2.0@3@0
+platelets@9@1@plt platelet,platelet blood,blood platelet counts,blood platelet numbers,platelet counts,platelet numbers,plat,platelet count measurement,@16.25@2.25@8@0
+portal@6@1@[por] [t] [al] :	[pore, porous] [thymine] [pertaining to],@28.0@4.5@2@0
+hypertension@12@1@high blood pressure,blood pressure high,blood high pressure,high blood pressure disorder,increased blood pressure,@21.8@3.2@5@1
+responsible@11@1@[re] [sponsib] [le] :	[again, back] [sponsib] [small or little],@31.0@5.0@2@0
+most@4@1@about,@5.0@1.0@1@0
+severe@6@1@hard,serious,high grade,grade high,@7.75@1.5@4@1
+complications@13@1@co,@2.0@1.0@1@0
+cirrhosis@9@1@[cirrh] [osis] :	[cirrh] [a condition, disease or increase],@29.0@4.5@2@0
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@1
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@1
+biopsy@6@1@br,@2.0@1.0@1@0
+percutaneous@12@1@[per] [cutane] [ous] :	[through] [cutane] [pertaining to],@57.0@7.0@1@0
+transjugular@12@1@[trans] [jugula] [r] :	[Denoting something as moving or situated across or through] [jugula] [blood vessels],@108.0@15.0@1@0
+laparoscopic@12@1@lap,@3.0@1.0@1@0
+approach@8@1@coming,access,@6.0@1.0@2@0
+biopsy@6@1@br,@2.0@1.0@1@0
+necessary@9@1@[necess] [ary] :	[necess] [pertaining to],@41.0@5.0@1@0
+clinical@8@1@[clinic] [al] :	[clinic] [pertaining to],@40.0@5.0@1@0
+laboratory@10@1@lab,research lab,science lab,testing ground,test,lab test,@8.666666666666666@1.6666666666666667@6@0
+radiologic@10@1@radiology specialty,@19.0@2.0@1@0
+data@4@1@information,@11.0@1.0@1@0
+suggests@8@1@indicate,@8.0@1.0@1@1
+cirrhosis@9@1@[cirrh] [osis] :	[cirrh] [a condition, disease or increase],@29.0@4.5@2@0
+furthermore@11@1@moreover,what is more,@10.0@2.0@2@0
+significant@11@1@important,@9.0@1.0@1@1
+liver@5@1@[live] [r] :	[populate] [blood vessels],@39.0@5.0@1@0
+biopsy@6@1@br,@2.0@1.0@1@0
+predisposes@11@1@[pre] [disposes] :	[Denotes something as 'before' another (in [physical] position or time)] [dispose],@101.0@13.0@1@0
+complications@13@1@co,@2.0@1.0@1@0
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@1
+biopsy@6@1@br,@2.0@1.0@1@0
+ascites@7@1@[a] [scites] :	[not, without] [scites],@18.5@3.0@2@0
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@1
+low@3@1@small,down,@4.5@1.0@2@0
+count@5@1@Use verb form: count,@20.0@4.0@1@0
+spider@6@1@[spide] [r] :	[spide] [blood vessels],@37.0@5.0@1@0
+nevi@4@1@mole,nevus,skin moles,@6.333333333333333@1.3333333333333333@3@0
+diagnosis@9@1@di,Use verb form: diagnose,@12.5@2.5@2@1
+physical@8@1@[physic] [al] :	[purgative] [pertaining to],@43.0@5.0@1@0
+retaining@9@1@continue,keep,keep on,hold,keep back,hold back,@6.833333333333333@1.5@6@1
+abdominal@9@1@[abdomin] [al] :	[abdomen] [pertaining to],@42.0@5.0@1@0
+cavity@6@1@pit,enclosed space,tooth decay,decay dental,decay dent,dent decay,dental decay,decay tooth,@10.375@1.875@8@0
+complication@12@1@Use verb form: complicate,@25.0@4.0@1@0
+cirrhosis@9@1@[cirrh] [osis] :	[cirrh] [a condition, disease or increase],@29.0@4.5@2@0
+a@1@1@angstrom,angstrom unit,antiophthalmic factor,deoxyadenosine monophosphate,adenine,ampere,amp,annum,year,ar,acre,acre international,acre british,ac,ao,atto,right upper second deciduous molar tooth,structure of deciduous maxillary right second molar tooth,right primary second upper molar tooth,deciduous maxillary right second molar tooth,@15.9@2.35@20@0
+reformed@8@1@see the light,@13.0@3.0@1@0
+consequence@11@1@effect,outcome,result,event,issue,import,moment,@5.857142857142857@1.0@7@1
+characterized@13@1@qualify,@7.0@1.0@1@0
+occur@5@1@happen,go on,pass off,pass,fall out,come about,take place,come,took place,@7.222222222222222@1.6666666666666667@9@1
+regenerated@11@1@renew,reform,reclaim,rectify,restore,revitalize,@7.0@1.0@6@1
+leads@5@1@take,direct,guide,leave,result,head,run,go,pass,top,chair,@4.2727272727272725@1.0@11@1
+commonly@8@1@normally,usually,@7.5@1.0@2@1
+alcoholism@10@1@alcohol addiction,alcohol dependence,chronic alcohol abuse,alcohol dependence syndrome,addiction alcohol,@20.0@2.4@5@1
+consequence@11@1@effect,outcome,result,event,issue,import,moment,@5.857142857142857@1.0@7@1
+fibrosis@8@1@[fibr] [osis] :	[fiber] [a condition, disease or increase],@28.5@4.5@2@0
+occur@5@1@happen,go on,pass off,pass,fall out,come about,take place,come,took place,@7.222222222222222@1.6666666666666667@9@1
+regenerated@11@1@renew,reform,reclaim,rectify,restore,revitalize,@7.0@1.0@6@1
+leading@7@1@take,direct,guide,leave,result,head,run,go,top,before,pre,prior to,prior,@4.615384615384615@1.0769230769230769@13@1
+result@6@1@issue,out,@4.0@1.0@2@0
+commonly@8@1@normally,usually,@7.5@1.0@2@1
+alcoholism@10@1@alcohol addiction,alcohol dependence,chronic alcohol abuse,alcohol dependence syndrome,addiction alcohol,@20.0@2.4@5@1
+retention@9@1@keeping,holding,memory,Use verb form: retain,@10.25@1.75@4@1
+associated@10@1@link,link up,@5.5@1.5@2@1
+outcome@7@1@result,final result,effect,event,issue,out,@6.166666666666667@1.1666666666666667@6@1
+esophageal@10@1@[] [esophageal] :	[null] [gullet (AmE)],@39.0@5.0@1@0
+varices@7@1@varicose veins,vein varicose,enlarged tortuous blood vessel,varicose veins nos,@18.75@2.75@4@0
+progression@11@1@advance,forward motion,disease course,courses disease,course illness,course of illness,course of disorder,Use verb form: progress,@15.25@2.375@8@1
+complications@13@1@co,@2.0@1.0@1@0
+progression@11@1@advance,forward motion,disease course,courses disease,course illness,course of illness,course of disorder,Use verb form: progress,@15.25@2.375@8@1
+option@6@1@choice,selection,@7.5@1.0@2@1
+derives@7@1@deduct,gain,come,@4.666666666666667@1.0@3@1
+yellowish@9@1@yellow,@6.0@1.0@1@1
+tawny@5@1@[tawn] [y] :	[tawn] [condition or process of],@45.0@7.0@1@0
+colour@6@1@color,people of color,@10.0@2.0@2@1
+clinical@8@1@[clinic] [al] :	[clinic] [pertaining to],@40.0@5.0@1@0
+entity@6@1@thing,item,@4.5@1.0@2@0
+vital@5@1@critical,full of life,@10.0@2.0@2@1
+synthesis@9@1@formation,Use verb form: synthesize,@17.0@2.5@2@1
+detoxification@14@1@metabolism of toxic agents,Use verb form: detoxify,@24.5@4.0@2@1
+removed@7@1@take,take away,take out,move out,transfer,hit,off,out,taken out,@6.111111111111111@1.4444444444444444@9@1
+reversible@10@1@[re] [versib] [le] :	[again, back] [versib] [small or little],@30.0@5.0@2@0
+fully@5@1@to the full,full,in full,@7.333333333333333@2.0@3@0
+blocking@8@1@stop,block off,block up,bar,jam,stuff,close up,forget,blank out,@6.111111111111111@1.4444444444444444@9@1
+normally@8@1@usually,@7.0@1.0@1@1
+contractile@11@1@muscle contraction,muscle motor activity,contraction muscular,contraction muscle,contractions muscle,muscular contractions,obsolete muscle motor activity,muscle cell contraction,@21.25@2.5@8@0
+obstructs@9@1@blockade,block,hinder,stymie,embarrass,impede,jam,close up,@6.375@1.125@8@1
+secretes@8@1@release,@7.0@1.0@1@1
+leads@5@1@take,direct,guide,leave,result,head,run,go,pass,top,chair,@4.2727272727272725@1.0@11@1
+result@6@1@issue,out,@4.0@1.0@2@0
+hepatocyte@10@1@liver cell,hepatic cells,@11.5@2.0@2@1
+entire@6@1@full,total,whole,@4.666666666666667@1.0@3@1
+decreased@9@1@fall,reduction,reduced,@6.666666666666667@1.0@3@1
+hypertension@12@1@high blood pressure,blood pressure high,blood high pressure,high blood pressure disorder,increased blood pressure,@21.8@3.2@5@1
+severe@6@1@hard,serious,high grade,grade high,@7.75@1.5@4@1
+transjugular@12@1@[trans] [jugula] [r] :	[Denoting something as moving or situated across or through] [jugula] [blood vessels],@108.0@15.0@1@0
+suggests@8@1@indicate,@8.0@1.0@1@1
+significant@11@1@important,@9.0@1.0@1@1
+predisposes@11@1@[pre] [disposes] :	[Denotes something as 'before' another (in [physical] position or time)] [dispose],@101.0@13.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+chronic@7@1@[chron] [ic] :	[chron] [pertaining to],@38.0@5.0@1@0
+disorder@8@1@diseases,diseases and disorders,condition,@13.0@1.6666666666666667@3@1
+involving@9@1@affect,regard,ask,need,require,call for,demand,@5.714285714285714@1.1428571428571428@7@1
+rare@4@1@not very often,@14.0@3.0@1@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+bone@4@1@[b] [one] :	[bacillus] [],@25.0@4.0@1@0
+marrow@6@1@substance,heart,heart and soul,meat,@8.0@1.5@4@0
+myeloproliferation@18@1@[myelo] [prolifer] [ation] :	[marrow, bone marrow] [prolifer] [process],@35.0@4.5@2@0
+overproduction@14@1@Use verb form: overproduce,@26.0@4.0@1@0
+dramatic@8@1@[drama] [tic] :	[play] [pertaining to],@38.0@5.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+platelets@9@1@plt platelet,platelet blood,blood platelet counts,blood platelet numbers,platelet counts,platelet numbers,platelet count measurement,@18.0@2.4285714285714284@7@0
+elevated@8@1@high,highly,higher,@5.333333333333333@1.0@3@1
+leads@5@1@direct,result,go,@4.666666666666667@1.0@3@1
+abnormally@10@1@not normal,@10.0@2.0@1@1
+circulating@11@1@go around,spread,pass around,pass on,@8.25@1.75@4@0
+mass@4@1@good deal,great deal,lot,people,volume,@6.8@1.4@5@0
+cells@5@1@electric cell,normal cell,the cell,cell types,cell numbers,@10.8@2.0@5@0
+consequently@12@1@therefore,@9.0@1.0@1@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+occur@5@1@happen,fall out,come about,@8.0@1.6666666666666667@3@1
+individuals@11@1@person,someone,@6.5@1.0@2@1
+nonspecific@11@1@not specific,@12.0@2.0@1@1
+headaches@9@1@concern,worry,head pain,pain head,pain in head,pain in head nos,@9.666666666666666@2.1666666666666665@6@0
+fatigue@7@1@decreased energy,loss of energy,lack of energy,energy loss,tired all the time,@14.6@2.8@5@1
+weakness@8@1@strength loss of,feels weak,of strength loss,weak feeling,feel weak,loss of strength,loss strength,strength loss,@13.125@2.375@8@1
+dizziness@9@1@vertigo,spinning sensation,vertigo subjective,dizzy spell,vertigo nos,dizzy frequency,how often dizzy,have been dizzy,@13.75@2.125@8@1
+itchy@5@1@itching,itching skin,@9.5@1.5@2@1
+enlarged@8@1@enlargement procedure,@21.0@2.0@1@0
+spleen@6@1@short temper,@12.0@2.0@1@0
+splenomegaly@12@1@spleen enlarged,enlarged spleen,enlargement spleen,spleen large,enlargement of spleen,large spleen,increased spleen size,@16.285714285714285@2.2857142857142856@7@0
+variety@7@1@kind,sort,form,change,@4.5@1.0@4@0
+gastrointestinal@16@1@[gastro] [intestin] [al] :	[stomach] [intestin] [pertaining to],@63.0@7.0@1@0
+clot@4@1@thrombosis,@10.0@1.0@1@0
+formation@9@1@constitution,organization,form,Use verb form: form,@11.75@1.75@4@0
+clot@4@1@thrombosis,@10.0@1.0@1@0
+prevent@7@1@[pre] [vent] :	[Denotes something as 'before' another (in [physical] position or time)] [venthole],@98.0@13.0@1@0
+flow@4@1@fall,@4.0@1.0@1@0
+vital@5@1@critical,full of life,@10.0@2.0@2@1
+organs@6@1@electric organ,electronic organ,pipe organ,reed organ,variety meat,@12.4@2.0@5@0
+individuals@11@1@person,someone,@6.5@1.0@2@1
+polycythemia@12@1@abnormally shaped erythrocytes,@30.0@3.0@1@0
+mutation@8@1@mutant,variation,genetic change,Use verb form: mutate,@12.5@2.0@4@1
+exact@5@1@accurate,@8.0@1.0@1@0
+role@4@1@function,part,use,@5.0@1.0@3@0
+mutation@8@1@mutant,variation,genetic change,Use verb form: mutate,@12.5@2.0@4@1
+belongs@7@1@go,belong to,@5.5@1.5@2@0
+diseases@8@1@condition,@9.0@1.0@1@1
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+commonly@8@1@normally,usually,@7.5@1.0@2@1
+myeloid@7@1@[myelo] [oid] :	[marrow, bone marrow] [resemblance to],@26.5@4.0@2@0
+essential@9@1@all important,@13.0@2.0@1@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+myeloid@7@1@[myelo] [oid] :	[marrow, bone marrow] [resemblance to],@26.5@4.0@2@0
+essential@9@1@all important,@13.0@2.0@1@0
+thrombocythemia@15@1@thrombocytosis,platelet count increased,elevated platelet count,@20.333333333333332@2.3333333333333335@3@0
+leukemia@8@1@cancer of the blood,@19.0@4.0@1@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+idiopathic@10@1@origin unknown,unknown origin,@14.0@2.0@2@0
+affecting@9@1@impact,bear upon,bear on,touch on,involve,regard,@7.166666666666667@1.5@6@1
+dramatic@8@1@[drama] [tic] :	[play] [pertaining to],@38.0@5.0@1@0
+resulta@7@1@[re] [sulta] :	[again, back] [sulta],@17.5@3.0@2@0
+smaller@7@1@small,little,minor,low,less,minutes,@5.0@1.0@6@0
+vessels@7@1@blood vessel structure,blood vessel trunk,@20.0@3.0@2@0
+properly@8@1@in good order,right,the right way,by rights,@10.0@2.25@4@1
+variety@7@1@kind,sort,form,change,@4.5@1.0@4@0
+prevent@7@1@keep,@4.0@1.0@1@0
+critical@8@1@[critic] [al] :	[critic] [pertaining to],@40.0@5.0@1@0
+rare@4@1@not very often,@14.0@3.0@1@0
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+skin@4@1@[sk] [in] :	[sk] [movement],@27.0@4.0@1@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+occur@5@1@happen,come about,@8.0@1.5@2@1
+immune@6@1@resistant,@9.0@1.0@1@0
+mistakenly@10@1@[mistakenl] [y] :	[mistakenl] [condition or process of],@55.0@7.0@1@0
+attacks@7@1@attack behavior,@15.0@2.0@1@0
+healthy@7@1@good for you,sound,@8.5@2.0@2@0
+symptoms@8@1@[sym] [ptoms] :	[Indicates similarity, likeness, or being together, assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-.] [ptoms],@28.5@5.333333333333333@6@0
+severity@8@1@intensity,with intensity,@11.5@1.5@2@1
+associated@10@1@link,link up,@5.5@1.5@2@1
+forms@5@1@word form,kind,sort,human body,physical body,material body,@8.833333333333334@1.6666666666666667@6@1
+vary@4@1@change,@6.0@1.0@1@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+eruptions@9@1@volcanic eruption,outbreak,@12.5@1.5@2@1
+outer@5@1@prohibited,external,@9.0@1.0@2@1
+layer@5@1@bed,level,@4.0@1.0@2@0
+develop@7@1@get,@3.0@1.0@1@0
+mucous@6@1@mucus,portion of mucus,mucus layer,@10.666666666666666@2.0@3@0
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@1
+lining@6@1@run along,trace,draw,describe,linear,@6.4@1.2@5@1
+mucous@6@1@mucus,portion of mucus,mucus layer,@10.666666666666666@2.0@3@0
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@1
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@1
+mucous@6@1@mucus,portion of mucus,mucus layer,@10.666666666666666@2.0@3@0
+thin@4@1@[th] [in] :	[thursday] [movement],@33.0@4.0@1@0
+moist@5@1@wet,@3.0@1.0@1@1
+coverings@9@1@natural covering,screening,masking,application,coating,@10.0@1.2@5@1
+internal@8@1@inside,@6.0@1.0@1@1
+surfaces@8@1@control surface,@15.0@2.0@1@0
+untreated@9@1@did not receive therapy or drug for,not treatabl,@23.5@4.5@2@0
+fatal@5@1@black,death related to adverse event,@17.5@3.0@2@0
+exact@5@1@accurate,@8.0@1.0@1@0
+cause@5@1@case,Use verb form: cause,@12.0@2.5@2@0
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+pemphigus@9@1@[pe] [mphigus] :	[penis] [mphigus],@34.0@4.0@1@0
+unknown@7@1@not known,not known,@9.0@2.0@2@1
+subtypes@8@1@[sub] [ty] [pes] :	[beneath, under] [ty] [Of or pertaining to the foot, -footed],@26.0@5.333333333333333@3@0
+subtypes@8@1@[sub] [ty] [pes] :	[beneath, under] [ty] [Of or pertaining to the foot, -footed],@26.0@5.333333333333333@3@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+sometimes@9@1@from time to time but not too often,from time to time,@26.0@6.0@2@1
+consider@8@1@see,view,study,take,deal,look at,turn over,think,believe,@5.333333333333333@1.2222222222222223@9@1
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+distinct@8@1@[dis] [tinct] :	[separation, taking apart] [tint],@24.0@3.5@2@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+causes@6@1@case,caused by,@6.5@1.5@2@0
+clinical@8@1@[clinic] [al] :	[clinic] [pertaining to],@40.0@5.0@1@0
+immunological@13@1@[immunologic] [al] :	[immunological] [pertaining to],@52.0@5.0@1@0
+microscopic@11@1@[micro] [scop] [ic] :	[denoting something as small, or relating to smallness, millionth] [scop] [pertaining to],@36.333333333333336@5.666666666666667@3@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+discussed@9@1@talk about,talk over,@9.5@2.0@2@1
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+immune@6@1@resistant,@9.0@1.0@1@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+happen@6@1@fall out,come about,find,@7.333333333333333@1.6666666666666667@3@1
+mistakenly@10@1@[mistakenl] [y] :	[mistakenl] [condition or process of],@55.0@7.0@1@0
+vary@4@1@[v] [ary] :	[volt] [pertaining to],@34.0@5.0@1@0
+forms@5@1@word form,kind,sort,human body,physical body,material body,@8.833333333333334@1.6666666666666667@6@1
+autoimmune@10@1@[auto] [immune] :	[self] [resistant],@36.0@4.0@1@0
+blistering@10@1@acid,bitter,caustic,hot,@5.0@1.0@4@0
+skin@4@1@[sk] [in] :	[sk] [movement],@27.0@4.0@1@0
+diseases@8@1@[dis] [eases] :	[separation, taking apart] [emergency alert system],@33.0@4.5@2@0
+wrongly@7@1@incorrectly,wrong,@8.0@1.0@2@1
+healthy@7@1@good for you,@12.0@3.0@1@0
+attacks@7@1@attack behavior,@15.0@2.0@1@0
+intensity@9@1@[intensit] [y] :	[intensit] [condition or process of],@53.0@7.0@1@0
+kinds@5@1@sort,@4.0@1.0@1@0
+membranes@9@1@tissue layer,membrane tissues,tissue membrane,@14.333333333333334@2.0@3@0
+coatings@8@1@[co] [atings] :	[with, together, in association] [atings],@18.333333333333332@3.0@3@0
+thin@4@1@[th] [in] :	[thursday] [movement],@33.0@4.0@1@0
+surfaces@8@1@control surface,@15.0@2.0@1@0
+cause@5@1@Use verb form: cause,@20.0@4.0@1@0
+treatment@9@1@Use verb form: treat,@20.0@4.0@1@0
+asocial@7@1@antisocial,@10.0@1.0@1@0
+asymptomatic@12@1@absence of symptoms,no symptoms,@15.0@2.5@2@0
+aside@5@1@away,apart,by,@3.6666666666666665@1.0@3@0
+osteophytes@11@1@bone spur,bone spur nos,ear blockage caused by overgrown bone,bones spurs,bony spurring,spurs bone,@15.5@2.8333333333333335@6@0
+mueller@7@1@[muelle] [r] :	[muelle] [blood vessels],@39.0@5.0@1@0
+polarimeter@11@1@[polari] [meter] :	[polari] [instrument used to measure or count],@65.0@9.0@1@0
+transmission@12@1@Use verb form: transmit,@23.0@4.0@1@0
+mode@4@1@style,way,@4.0@1.0@2@0
+electronically@14@1@[electronicall] [y] :	[electronicall] [condition or process of],@63.0@7.0@1@0
+covid@5@1@[co] [vid] :	[with, together, in association] [vid],@16.333333333333332@3.0@3@0
+needs@5@1@take,call for,want,need for,@6.0@1.5@4@0
+happen@6@1@go on,fall out,come about,take place,find,@7.4@1.8@5@1
+needs@5@1@take,call for,want,need for,@6.0@1.5@4@0
+otherwise@9@1@other than,@10.0@2.0@1@0
+convince@8@1@convert,win over,@7.5@1.5@2@1
+covid@5@1@[co] [vid] :	[with, together, in association] [vid],@16.333333333333332@3.0@3@0
+covid@5@1@[co] [vid] :	[with, together, in association] [vid],@16.333333333333332@3.0@3@0
+apples@6@1@[a] [pples] :	[not, without] [pples],@17.5@3.0@2@0
+focused@7@1@focus,center,has focus,@6.666666666666667@1.3333333333333333@3@1
+pathogen@8@1@[patho] [gen] :	[disease] [(1) Denotes the sense 'born in, from' (2) Denotes the sense 'of a certain kind'],@53.0@9.5@2@0
+interventions@13@1@treatment,intervention nursing,@14.5@1.5@2@1
+transport@9@1@shipping,transfer,delivery,Use verb form: transport,@12.0@1.75@4@1
+microbial@9@1@[micro] [bi] [al] :	[denoting something as small, or relating to smallness, millionth] [bismuth] [pertaining to],@36.666666666666664@5.666666666666667@3@0
+assessment@10@1@physical,Use verb form: assess,@14.5@2.5@2@0
+currently@9@1@[currentl] [y] :	[currentl] [condition or process of],@53.0@7.0@1@0
+partners@8@1@better half,@11.0@2.0@1@0
+novel@5@1@fresh,new,@4.0@1.0@2@1
+methods@7@1@technical,@9.0@1.0@1@0
+decontaminant@13@1@[de] [contaminant] :	[from, down, or away from] [contamination],@20.333333333333332@3.3333333333333335@3@0
+hospitals@9@1@hospital environment,in hospital,@15.5@2.0@2@0
+facilities@10@1@[faci] [lities] :	[face] [lities],@33.0@4.0@1@0
+plans@5@1@program,design,@6.5@1.0@2@1
+personnel@9@1@force,staff office,human resources,human capital,employees,workers,@10.166666666666666@1.5@6@1
+analysis@8@1@Use verb form: analyze,@22.0@4.0@1@0
+manuscript@10@1@[manu] [script] :	[Of or pertaining to the hand] [book],@55.0@9.0@1@0
+submission@10@1@entry,compliance,submitted,Use verb form: submit,@11.25@1.75@4@0
+reach@5@1@make,get through,get hold of,contact,touch,get to,progress to,pass on,turn over,give,@7.5@1.7@10@1
+connections@11@1@link,association,@7.5@1.0@2@1
+facilities@10@1@[faci] [lities] :	[face] [lities],@33.0@4.0@1@0
+methods@7@1@technical,@9.0@1.0@1@0
+unprecedented@13@1@not precedented,@15.0@2.0@1@1
+exodus@6@1@[exo] [dus] :	[Denotes something as 'outside' another] [dus],@60.0@8.0@1@0
+workers@7@1@employees,human resources,@12.0@1.5@2@0
+places@6@1@property,home,post,office,station,space,@5.666666666666667@1.0@6@0
+villages@8@1@small town,@10.0@2.0@1@1
+able@4@1@[ab] [le] :	[from] [small or little],@36.0@6.0@1@0
+onions@6@1@onion plant,@11.0@2.0@1@0
+pick@4@1@clean,foot,break up,choose,select,choice,@5.833333333333333@1.1666666666666667@6@0
+agriculture@11@1@[a] [griculture] :	[not, without] [griculture],@22.5@3.0@2@0
+essential@9@1@all important,@13.0@2.0@1@1
+workers@7@1@employees,human resources,@12.0@1.5@2@0
+workers@7@1@employees,human resources,@12.0@1.5@2@0
+stayed@6@1@remain,rest,stick around,stay put,stay on,continue,last out,ride out,@7.625@1.625@8@1
+running@7@1@it is hard for me to run,hard to run,is it hard for you to run,@20.0@5.666666666666667@3@0
+running@7@1@track,it is hard for me to run,hard to run,is it hard for you to run,Use verb form: run,@16.6@4.4@5@0
+running@7@1@it is hard for me to run,hard to run,is it hard for you to run,@20.0@5.666666666666667@3@0
+overview@8@1@[ov] [erview] :	[Of or pertaining to the eggs, the ovum] [erview],@32.0@6.0@2@0
+immune@6@1@resistant,@9.0@1.0@1@0
+function@8@1@work,go,@3.0@1.0@2@0
+overall@7@1@[ov] [erall] :	[Of or pertaining to the eggs, the ovum] [erall],@31.0@6.0@2@0
+function@8@1@work,go,@3.0@1.0@2@0
+immune@6@1@resistant,@9.0@1.0@1@0
+prevent@7@1@keep,@4.0@1.0@1@0
+limit@5@1@set,determine,@6.0@1.0@2@0
+infection@9@1@transmission,Use verb form: infect,@16.5@2.5@2@0
+principle@9@1@rule,@4.0@1.0@1@1
+immune@6@1@resistant,@9.0@1.0@1@0
+immune@6@1@resistant,@9.0@1.0@1@0
+infection@9@1@transmission,Use verb form: infect,@16.5@2.5@2@0
+infection@9@1@transmission,Use verb form: infect,@16.5@2.5@2@0
+susceptible@11@1@[susceptib] [le] :	[susceptib] [small or little],@48.0@6.0@1@0
+range@5@1@image,@5.0@1.0@1@0
+microbes@8@1@bug,germ,@3.5@1.0@2@0
+typically@9@1@[typicall] [y] :	[typicall] [condition or process of],@53.0@7.0@1@0
+cause@5@1@do,make,have,get,@3.25@1.0@4@0
+healthy@7@1@good for you,sound,@8.5@2.0@2@0
+individuals@11@1@person,someone,@6.5@1.0@2@1
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+immune@6@1@resistant,@9.0@1.0@1@0
+disorders@9@1@diseases,condition,@8.5@1.0@2@1
+infections@10@1@transmission,@12.0@1.0@1@0
+hiv@3@1@aids virus,@10.0@2.0@1@0
+pregnant@8@1@meaning,significant,numbers pregnancy,pregnancy previous,pregnancy number,@13.8@1.6@5@0
+distinguish@11@1@separate,tell,tell apart,recognize,pick out,make out,identify,discover,key out,describe,@7.8@1.4@10@1
+recognizing@11@1@acknowledge,know,realize,spot,distinguish,pick out,make out,tell apart,@7.875@1.375@8@1
+variety@7@1@kind,sort,form,change,@4.5@1.0@4@0
+danger@6@1@risk,@4.0@1.0@1@0
+cues@4@1@clue,cue stick,pool cue,pool stick,@7.75@1.75@4@0
+molecular@9@1@[molecula] [r] :	[molecula] [blood vessels],@43.0@5.0@1@0
+patterns@8@1@form,practice,figure,normal,rule,traffic pattern,approach pattern,@8.428571428571429@1.2857142857142858@7@0
+infection@9@1@transmission,Use verb form: infect,@16.5@2.5@2@0
+infectious@10@1@clinical infection,@18.0@2.0@1@0
+agents@6@1@federal agent,@13.0@2.0@1@0
+sunburn@7@1@tan,burn,solar dermatitis,@7.666666666666667@1.3333333333333333@3@0
+sunburn@7@1@tan,burn,solar dermatitis,@7.666666666666667@1.3333333333333333@3@0
+cancer@6@1@[cance] [r] :	[cance] [blood vessels],@37.0@5.0@1@0
+infectious@10@1@clinical infection,@18.0@2.0@1@0
+microbes@8@1@bug,germ,@3.5@1.0@2@0
+viruses@7@1@virus,computer virus,@9.5@1.5@2@0
+bacteria@8@1@[bacteri] [a] :	[Pertaining to bacteria] [angstrom],@51.0@6.0@1@0
+release@7@1@let go of,let go,free,issue,give up,@6.2@1.8@5@1
+release@7@1@let go of,let go,free,issue,give up,@6.2@1.8@5@1
+recognized@10@1@know,spot,pick out,make out,@6.0@1.5@4@1
+called@6@1@name,call up,phone,send for,call in,address,call off,@6.571428571428571@1.5714285714285714@7@0
+overall@7@1@[ov] [erall] :	[Of or pertaining to the eggs, the ovum] [erall],@31.0@6.0@2@0
+function@8@1@map,use,part,@3.3333333333333335@1.0@3@1
+resistance@10@1@stand firm,Use verb form: resist,@15.5@3.0@2@0
+prevent@7@1@keep,@4.0@1.0@1@1
+prevent@7@1@keep,@4.0@1.0@1@1
+limit@5@1@set,determine,@6.0@1.0@2@0
+apples@6@1@[a] [pples] :	[not, without] [pples],@17.5@3.0@2@0
+rigorous@8@1@strict,tight,@5.5@1.0@2@0
+airways@7@1@air passage,air lane,flight path,respiratory tract,airline,airline business,@11.666666666666666@1.8333333333333333@6@0
+vaccines@8@1@vaccine product,@15.0@2.0@1@0
+newer@5@1@new,fresh,novel,raw,modern,young,@4.5@1.0@6@1
+tested@6@1@try,try out,@5.0@1.5@2@1
+approaches@10@1@come on,go up,draw near,draw close,come near,border on,set about,go about,@8.25@2.0@8@0
+called@6@1@name,call up,send for,call in,address,call off,@6.833333333333333@1.6666666666666667@6@0
+vaccines@8@1@vaccine product,@15.0@2.0@1@0
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+blueprint@9@1@design,pattern,@6.5@1.0@2@1
+building@8@1@make,work up,@5.5@1.5@2@0
+researchers@11@1@research personnel,@18.0@2.0@1@1
+put@3@1@set,place,set up,order,@4.75@1.25@4@1
+sections@8@1@part,discussion section,department,@10.666666666666666@1.3333333333333333@3@1
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+chimpanzees@11@1@chimp,common chimpanzee,pan species,@11.0@1.6666666666666667@3@0
+hope@4@1@go for,@6.0@2.0@1@0
+developed@9@1@get,spring up,build up,@6.666666666666667@1.6666666666666667@3@1
+safe@4@1@good,@4.0@1.0@1@0
+looks@5@1@search,face,take care,see,@5.5@1.25@4@0
+produce@7@1@make,create,bring about,bring on,bring out,develop,get,@6.857142857142857@1.4285714285714286@7@1
+immune@6@1@resistant,@9.0@1.0@1@0
+response@8@1@Use verb form: respond,@22.0@4.0@1@0
+pieces@6@1@part,piece of music,bit,art object,patch,@7.2@1.6@5@1
+raw@3@1@natural,new,@5.0@1.0@2@0
+genetic@7@1@gene therapy,gene transfer,gene transfer procedure,@16.0@2.3333333333333335@3@0
+depending@9@1@count,look,@4.5@1.0@2@0
+approach@8@1@coming,access,@6.0@1.0@2@0
+once@4@1@one time,in one case,at one time,@10.0@2.6666666666666665@3@1
+injected@8@1@shoot,come in,put in,throw in,@6.5@1.75@4@0
+producing@9@1@bring forth,make,create,bring about,give rise,grow,raise,farm,bring on,bring out,develop,get,@6.75@1.4166666666666667@12@1
+viral@5@1@viruses,@7.0@1.0@1@0
+proteins@8@1@gene product,@12.0@2.0@1@0
+viral@5@1@viruses,@7.0@1.0@1@0
+immune@6@1@resistant,@9.0@1.0@1@0
+fight@5@1@campaign,@8.0@1.0@1@0
+radiologic@10@1@radiology specialty,@19.0@2.0@1@0
+included@8@1@let in,has part,@7.0@2.0@2@0
+chest@5@1@breast,@6.0@1.0@1@0
+ct@2@1@central african republic,@24.0@3.0@1@0
+confirmed@9@1@support,@7.0@1.0@1@0
+lesions@7@1@wound,@5.0@1.0@1@0
+apex@4@1@vertex,peak,highest,@5.666666666666667@1.0@3@0
+consistent@10@1@compatible with,compatible,@12.5@1.5@2@0
+infectious@10@1@id,clinical infection,@10.0@1.5@2@0
+effusion@8@1@free fluid,Use verb form: effuse,@15.5@3.0@2@0
+pleural@7@1@[pleur] [al] :	[rib] [pertaining to],@36.0@5.0@1@0
+intracranial@12@1@inside of the head bone,@23.0@5.0@1@0
+showed@6@1@present,establish,evidence,picture,express,indicate,point,show up,read,register,record,@6.909090909090909@1.0909090909090908@11@0
+head@4@1@point,question,@6.5@1.0@2@0
+consistent@10@1@compatible with,compatible,@12.5@1.5@2@0
+lesions@7@1@wound,@5.0@1.0@1@0
+secondary@9@1@second,sc,@4.0@1.0@2@0
+osteoporosis@12@1@[osteo] [por] [osis] :	[bone] [por] [a condition, disease or increase],@34.5@5.5@2@0
+osteoporosis@12@1@[osteo] [por] [osis] :	[bone] [por] [a condition, disease or increase],@34.5@5.5@2@0
+outpatient@10@1@out patients,@12.0@2.0@1@0
+followed@8@1@fall out,travel along,come after,take after,watch,watch over,keep an eye on,play along,keep up,come,be,survey,@8.166666666666666@1.8333333333333333@12@0
+airways@7@1@air passage,air lane,flight path,respiratory tract,@11.75@2.0@4@0
+airways@7@1@air passage,air lane,flight path,respiratory tract,@11.75@2.0@4@0
+airways@7@1@air passage,air lane,flight path,respiratory tract,airline,airline business,@11.666666666666666@1.8333333333333333@6@0
+condition@9@1@status,term,@5.0@1.0@2@0
+swell@5@1@dude,fashion plate,@8.5@1.5@2@0
+produce@7@1@make,create,bring about,farm,bring on,bring out,develop,get,@6.5@1.375@8@0
+swell@5@1@dude,fashion plate,@8.5@1.5@2@0
+swell@5@1@dude,fashion plate,@8.5@1.5@2@0
+airways@7@1@respiratory tract,@17.0@2.0@1@0
+hypothermia@11@1@body temperature decreased,body temperature low,temperature body decrease,decreased core body temperature,below normal body temperature,decreased body temperature,body temperature below normal,low body temperature,abnormally low body temperature,@26.333333333333332@3.4444444444444446@9@1
+mailing@7@1@mail address,Use verb form: mail,@15.5@3.0@2@0
+countries@9@1@area,@4.0@1.0@1@0
+developing@10@1@get,spring up,build up,@6.666666666666667@1.6666666666666667@3@0
+affordably@10@1@[a] [ffordabl] [y] :	[not, without] [ffordabl] [condition or process of],@35.5@5.5@2@0
+orthopaedics@12@1@orthopedics,orthopedics surgery,orthopedic surgery,surgery orthopedic,orthopedic surgical profession,@19.2@2.0@5@1
+pediatrics@10@1@pediatric medicine,the field of medicine specializing in children,pediatric service,@27.0@3.6666666666666665@3@0
+plastic@7@1@credit card,charge card,@11.0@2.0@2@0
+surgery@7@1@operating room,or,operation,@8.333333333333334@1.3333333333333333@3@0
+rehabilitation@14@1@Use verb form: rehabilitate,@27.0@4.0@1@0
+organization@12@1@system,administration,Use verb form: organize,@14.333333333333334@2.0@3@0
+mailing@7@1@mail address,Use verb form: mail,@15.5@3.0@2@0
+orthopaedics@12@1@orthopedics,orthopedics surgery,orthopedic surgery,surgery orthopedic,orthopedic surgical profession,@19.2@2.0@5@1
+hypothermia@11@1@body temperature decreased,body temperature low,temperature body decrease,decreased core body temperature,below normal body temperature,decreased body temperature,body temperature below normal,low body temperature,abnormally low body temperature,@26.333333333333332@3.4444444444444446@9@1
+hypothermia@11@1@body temperature decreased,body temperature low,temperature body decrease,decreased core body temperature,below normal body temperature,decreased body temperature,body temperature below normal,low body temperature,abnormally low body temperature,@26.333333333333332@3.4444444444444446@9@1
+medicine@8@1@medical science,drug product,@13.5@2.0@2@0
+describes@9@1@draw,account,identify,discover,key out,@6.8@1.2@5@0
+practice@8@1@experience,Use verb form: practice,@16.5@2.5@2@0
+aims@4@1@take,take aim,direct,purpose,drive,get,calculate,target,place,point,shoot for,@6.090909090909091@1.1818181818181819@11@0
+achieve@7@1@reach,@5.0@1.0@1@0
+healing@7@1@tissue repair,repair tissue,Use verb form: heal,@15.0@2.6666666666666665@3@0
+effects@7@1@result,issue,@5.5@1.0@2@0
+derogatory@10@1@[de] [rogator] [y] :	[from, down, or away from] [rogator] [condition or process of],@27.0@5.0@3@0
+untested@8@1@young,@5.0@1.0@1@1
